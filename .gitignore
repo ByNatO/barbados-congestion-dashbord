@@ -1,0 +1,21 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Ignore virtualenv and environment files
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+.venv/
+venv/
+env/
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+# Data files (keep out of repo if large / private)
+data/*.csv
+# Specific large data file still ignored
+barbadostraficcongestion_shifted_df.csv
