@@ -31,7 +31,7 @@ Placez vos fichiers CSV dans le dossier `data/`. Le fichier de données volumine
 
 ## Notes
 - Vérifiez `src/` pour les fonctions de chargement et de prédiction.
-- Si vous souhaitez reproduire l'entraînement du modèle, consultez les scripts et ajoutez un notebook d'entraînement.
+
 
 
 
