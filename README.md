@@ -27,12 +27,11 @@ python app.py
 ```
 
 ## Données
-Placez vos fichiers CSV dans le dossier `data/`. Le fichier de données volumineux `barbadostraficcongestion_shifted_df.csv` est ignoré par défaut et ne doit pas être poussé au dépôt.
+Placez vos fichiers CSV dans le dossier `data/`. Le fichier de données volumineux `barbadostraficcongestion_shifted_df.csv` est ignoré par défaut.
 
 ## Notes
 - Vérifiez `src/` pour les fonctions de chargement et de prédiction.
 - Si vous souhaitez reproduire l'entraînement du modèle, consultez les scripts et ajoutez un notebook d'entraînement.
 
-## Licence & Contact
-Indiquez ici la licence souhaitée et une adresse de contact.
+
 
