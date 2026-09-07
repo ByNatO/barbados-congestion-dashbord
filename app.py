@@ -24,7 +24,7 @@ st.set_page_config(
 )
 
 # ------------------------------------------------------------------
-# Styles CSS personnalisés (thème friendly)
+# Styles CSS 
 # ------------------------------------------------------------------
 st.markdown("""
 <style>
@@ -135,9 +135,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# ------------------------------------------------------------------
-# Fonction pour convertir une image en base64
-# ------------------------------------------------------------------
+
 def get_base64_image(image_path):
     """Convertit une image en chaîne base64 pour affichage HTML."""
     try:
