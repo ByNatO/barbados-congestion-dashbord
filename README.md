@@ -27,7 +27,8 @@ python app.py
 ```
 
 ## Données
-Placez vos fichiers CSV dans le dossier `data/`. Le fichier de données volumineux `barbadostraficcongestion_shifted_df.csv` est ignoré par défaut.
+- Placez vos fichiers CSV dans le dossier `data/`. Le fichier de données volumineux `barbadostraficcongestion_shifted_df.csv` est ignoré par défaut.
+- Lien du fichier CSV: https://drive.google.com/file/d/1cm6BMtDpKtwkwRabNDSNBIE-_HAw4lzo/view?usp=sharing
 
 ## Notes
 - Vérifiez `src/` pour les fonctions de chargement et de prédiction.
