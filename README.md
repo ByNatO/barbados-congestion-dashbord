@@ -2,6 +2,8 @@
 
 Ce dépôt contient le code source pour un tableau de bord d'analyse et de prédiction de la congestion routière à Barbados.
 
+![Aperçu du projet](assets/dashboard.png)
+
 ## Contenu
 - `app.py` : application principale.
 - `data/` : jeux de données (les gros fichiers CSV sont ignorés par `.gitignore`).
