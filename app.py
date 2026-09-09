@@ -165,7 +165,7 @@ DAY_MAPPING = {
 # Entête principal
 # ------------------------------------------------------------------
 st.markdown('<div class="main-header">Gestion de la Congestion</div>', unsafe_allow_html=True)
-st.markdown('<div class="sub-header">Un Rond - point de Barbade - Analyse prédictive du trafic</div>', unsafe_allow_html=True)
+st.markdown('<div class="sub-header">Norman Niles Rond - point , Barbade - Analyse prédictive du trafic</div>', unsafe_allow_html=True)
 
 # Bandeau d'illustration (image en base64 pour une visibilité garantie)
 banner_path = "assets/plan.png"
