@@ -3,10 +3,10 @@
 Ce dépôt contient le code source pour un tableau de bord d'analyse et de prédiction de la congestion routière à Barbados.
 
 ## Contenu
-- `app.py` : application principale (Flask/Streamlit selon implémentation).
+- `app.py` : application principale.
 - `data/` : jeux de données (les gros fichiers CSV sont ignorés par `.gitignore`).
 - `src/` : modules utilitaires (`data_loader.py`, `model_loader.py`, `prediction.py`).
-- `models/` : modèles entrainés (fichiers pickle).
+- `models/` : modèles  entrainés (fichiers pickle).
 - `requirements.txt` : dépendances Python.
 
 ## Prérequis
@@ -18,12 +18,11 @@ python -m pip install -r requirements.txt
 ```
 
 ## Exécution
-- Lancer l'application (exemple pour Flask) :
+- Lancer l'application :
 
 ```powershell
-python app.py
-# ou pour Streamlit
-# streamlit run app.py
+streamlit run app.py
+
 ```
 
 ## Données
